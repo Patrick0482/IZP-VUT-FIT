@@ -1,1 +1,3 @@
-# IZP-VUT-FIT
+# IZP
+-----------
+Evaluation: 8,5/10
